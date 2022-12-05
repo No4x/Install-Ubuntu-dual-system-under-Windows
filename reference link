@@ -1,2 +1,3 @@
-参考 1.Ubuntu/Windows双系统安装巨详细——全面解决各种问题（疑难杂症），有手就行https://blog.csdn.net/NeoZng/article/details/122779035
+参考 1.Ubuntu/Windows双系统安装巨详细——全面解决各种问题（疑难杂症），有手就行https://blog.csdn.net/NeoZng/article/details/122779035 
+    （若安装在同一固态硬盘可能需要改变ubuntu系统优先级）
      2.删除Ubuntu的EFI分区https://zhuanlan.zhihu.com/p/343034539
